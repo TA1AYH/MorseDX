@@ -1,83 +1,14 @@
-MorseDX Privacy Policy / Gizlilik Politikası
+MorseDX
 
-Effective Date / Yürürlük Tarihi: May 20, 2026
+A utility for encoding and decoding Morse code.
 
-⸻
+Overview
 
-English
+MorseDX is a tool designed to convert text to Morse code and Morse code back to readable text. Whether you're learning Morse code, building a communication system, or just experimenting with classic encoding methods, MorseDX makes it easy.
 
-Privacy Policy for MorseDX
+Features
 
-MorseDX respects your privacy.
-
-MorseDX does not collect, store, transmit, or share any personal information.
-
-The application uses Bluetooth Low Energy (BLE) functionality only for:
-
-* Connecting compatible CW Morse keyers and paddles
-* Wireless communication between supported devices
-* Morse code training and practice features
-
-All audio processing, FFT decoding, Morse analysis, and training operations are performed locally on your device.
-
-MorseDX does not:
-
-* require user registration
-* create user accounts
-* collect analytics data
-* track users
-* use advertising SDKs
-* share information with third parties
-* upload personal data to external servers
-
-Optional device features such as flashlight/torch access are used only during Morse code signaling operations and are never used for tracking or data collection.
-
-If you use BLE communication features, nearby Bluetooth devices may be scanned only for establishing Morse keyer connections.
-
-No personal information is stored or transmitted by the application.
-
-If you have any questions regarding this Privacy Policy, you may contact the developer:
-
-Developer: Mehmet
-Email: tuaren@yahoo.com
-
-⸻
-
-Türkçe
-
-MorseDX Gizlilik Politikası
-
-MorseDX gizliliğinize saygı duyar.
-
-MorseDX hiçbir kişisel veriyi toplamaz, saklamaz, paylaşmaz veya üçüncü taraflara göndermez.
-
-Uygulama içerisindeki Bluetooth Low Energy (BLE) özelliği yalnızca:
-
-* Uyumlu CW Morse keyer ve paddle cihazlarına bağlanmak,
-* Desteklenen cihazlar arasında kablosuz iletişim sağlamak,
-* Morse kodu eğitim ve pratik özelliklerini kullanmak
-
-amacıyla kullanılmaktadır.
-
-Tüm ses işleme, FFT çözümleme, Morse analizleri ve eğitim işlemleri cihaz üzerinde yerel olarak gerçekleştirilir.
-
-MorseDX:
-
-* kullanıcı hesabı oluşturmaz,
-* kayıt gerektirmez,
-* analiz (analytics) verisi toplamaz,
-* kullanıcı takibi yapmaz,
-* reklam SDK’ları kullanmaz,
-* verileri üçüncü taraflarla paylaşmaz,
-* kişisel verileri harici sunuculara göndermez.
-
-Fener/ışık gibi isteğe bağlı cihaz özellikleri yalnızca Morse sinyalleme işlemleri sırasında kullanılır ve hiçbir şekilde takip veya veri toplama amacıyla kullanılmaz.
-
-BLE haberleşme özellikleri kullanıldığında, yalnızca Morse keyer bağlantısı kurabilmek için yakındaki Bluetooth cihazları taranabilir.
-
-Uygulama tarafından hiçbir kişisel veri saklanmaz veya iletilmez.
-
-Gizlilik politikası hakkında sorularınız için geliştirici ile iletişime geçebilirsiniz:
-
-Geliştirici: Mehmet
-E-posta: tuaren@yahoo.com
+Text to Morse: Convert plain text into Morse code
+Morse to Text: Decode Morse code back into readable text
+Support for Letters and Numbers: Handle alphanumeric characters
+Easy to Use: Simple and intuitive API
